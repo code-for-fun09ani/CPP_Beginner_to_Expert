@@ -1,0 +1,7 @@
+{
+	"image": "mcr.microsoft.com/devcontainers/universal:2",
+	"features": {
+		"ghcr.io/devcontainer-community/devcontainer-features/collection-c-cpp:1": {},
+		"ghcr.io/nkdui/devcontainer-features/conan:1": {}
+	}
+}
